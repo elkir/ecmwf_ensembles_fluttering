@@ -4,7 +4,7 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python>=3.8
+  - python>=3.10
   - ipython>=7.30
   - ipykernel>=6.4
   - jupyter>=1.0
@@ -28,5 +28,5 @@ dependencies:
   - seaborn>=0.11
   
   # animation VS Code
-  - ipympl>=0.9
+  - ipympl>=0.9.1
   
